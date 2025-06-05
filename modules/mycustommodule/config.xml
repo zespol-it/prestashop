@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mycustommodule</name>
+    <displayName>Mój własny moduł</displayName>
+    <version>1.0.0</version>
+    <author>Twoje Imię</author>
+    <description>Opis Twojego modułu.</description>
+    <tab>front_office_features</tab>
+</module> 
