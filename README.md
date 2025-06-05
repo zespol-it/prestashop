@@ -173,7 +173,7 @@ Aby uzyskać wysokie wyniki w Google PageSpeed Insights, zastosuj poniższe prak
 
 ## Dodatkowa dokumentacja
 
-- [Google Analytics 4](README_M4.md)
+- [Google Analytics 4](README_G4.md)
 - [Google Ads (AdWords)](README_Adwords.md)
 - [Google Optimize](README_GoogleOptimize.md)
 - [Google Tag Manager](README_GoogleTagManager.md)
